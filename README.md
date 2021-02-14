@@ -20,13 +20,10 @@ Clearly, the main use of this portfolio is show of my current capabilities to pr
 ## Technology Employed
 So far, this portfolio has been built entirely from HTML and Bootstrap. That could change as i update it.
 
-## Future Development
-Obviously, I'd like this portfolio to grow as I achieve more in coding, to reflect my ongoing progress. I'd also like to make it more engaging, as I personally feel its a bit flat. I'd like to include more referenc to life outiside of Bootcamp, as well, as, increasingly, I think employers are interested in what employees bring to the workplace beyond just job-related skills (crucial as they may be), such as interpersonal skills and personal interests.
-I'd like to integrate my CV to a greater degree, as well. It seems anomalous to include a 'flat' PDF in something like this, especially when the goal of nearly all our work as coders is to make information engaging.
-
 ## Challenges and Learning
 I don't mind admitting that the first time I attempted this portfolio, it was a disaster. 
 Now, it is much better and I've learned a huge amount, making it that way. I particularly had to learn about mobile-first design, which didn't come intuitively to me and which I still need to improve at. The practice I gained through designing and re-designing within the bootstrap grid system was invaluable. And I learned about overlays, of various types, some of which didn't remain in the finished project. All in all, a great learning experience.
 
 ## Future Development
-I'd really like to include more images, especially via a carousel. I'd like to generally create more links to other places and perhaps develop a more personal profile, whether integral to this one or linked to it somehow. Or perhaps that's a distinct project altogether.
+ Obviously, I'd like this portfolio to grow as I achieve more in coding, to reflect my ongoing progress. I'd also like to make it more engaging, to include more referenc to life outiside of Bootcamp, as well, as, increasingly, I think employers are interested in what employees bring to the workplace beyond just job-related skills (crucial as they may be), such as interpersonal skills and personal interests. I'd really like to include more images, especially via a carousel. I'd like to generally create more links to other places and perhaps develop a more personal profile, whether integral to this one or linked to it somehow. Or perhaps that's a distinct project altogether.
+I'd also like to integrate my CV to a greater degree, as well. It seems anomalous to include a 'flat' PDF in something like this, especially when the goal of nearly all our work as coders is to make information engaging.
