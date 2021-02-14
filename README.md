@@ -4,6 +4,7 @@
 This portfolio represents the best of my work completed during the Birmingham University Bootcamp. It is intended to give an overview of the skills I have gained and the progress I have made so far. As such, it will be updated regularly during the course. As we are currently on Week 10 of a 24 week programme, the content is necessarily limited, and - in all honesty - does not include my worst attempts! But hopefully, by the end of the course, it should give a pretty good idea of my skills as a coder.
 
 The deployed app can be seen here: https://drewbassett24.github.io/Portfolio/
+My Resume can be found here: https://drive.google.com/file/d/1s2Eb-4C9lWwIe3SrnOkB38Kip0utdLm9/view?usp=sharing
 
 ## Screenshots of some of my apps in action.
 ![Homepage screenshot jpg](https://user-images.githubusercontent.com/73472116/107885629-5a897c00-6ef3-11eb-8e4c-1a6e5a1b9c95.png)
